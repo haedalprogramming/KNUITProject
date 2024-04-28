@@ -14,7 +14,7 @@
 
 * 장소: 제 4합동강의실 204호 
 * 날짜: 5월 3일, 7일, 10일, 14일, 17일, 21일, 24일, 31일  
-* 시간: 12시~13시
+* 시간: 화금 12시~13시
 * 강사: (주)해달프로그래밍 최강민 대표
     * [인스타](https://www.instagram.com/choikangm), [링크드인](www.linkedin.com/in/choikangm), [깃헙](https://github.com/choikangm),[Velog](https://velog.io/@choikangm/)
 
@@ -49,12 +49,12 @@
     - 리더를 하고 싶은 분은 아이디어 혹은 팀문화를 소개
     - 팔로워를 하실 분들은 적극적으로 자기PR을 진행합니다.
 
-![Team Building](https://github.com/haedalprogramming/KNUITProject/blob/announcement/assets/team_building.jpg?raw=true)
+<img src="https://github.com/haedalprogramming/KNUITProject/blob/announcement/assets/team_building.jpg?raw=true" width=85% height=auto alt="Team Building"/>
 
 
 ### Step 3 피그마 공부
 
-각자 생각하는 IT프로젝트 주제와 방향이 있으실텐데요, 추후 프로토타이핑을 진행할때 필요한 피그마를 설명해드리는 영상을 보내드립니다.  
+각자 생각하는 IT프로젝트 주제와 방향이 있으실텐데요, 추후 프로토타이핑을 진행하는데 필요한 피그마 튜토리얼 영상을 보내드립니다.  
 
 * [피그마 시작하기](https://youtu.be/9N30ERgBHcM?si=mL4wXtKW6v4aqd4B)
 
